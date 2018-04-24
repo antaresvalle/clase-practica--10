@@ -1,0 +1,77 @@
+section.cancha{
+	background-color: #8cb27c;
+	height: 70vh;
+	width: 80%;
+	position: relative;
+	top: 50px;
+	left: 10%;
+}
+
+.borde {
+	height: 62vh;
+	width: 95%;
+	position: relative;
+	border: solid 5px;
+	border-color: white;
+	left: 2%;
+	top: 5%;
+}
+
+.porteria {
+	position: relative;
+	height: 30%;
+	width: 5%;
+	border: 5px solid white;
+	top: 35%;
+}
+
+.porteria.der {
+	display: flex;
+	float: right;
+	float: right;
+	border-right: none;
+}
+
+.porteria.izq {
+	display: flex;
+	float: left;
+	float: left;
+    border-left: none;
+}
+
+.balon img {
+	width: 100%;
+}
+
+.balon {
+	position: absolute;
+	top: 0;
+	width: 30px;
+	height: 30px;
+}
+
+#balon-izq {
+	left: 45px;
+	top: 35%;
+}
+
+#balon-centro {
+	left: 50%;
+	top: 10%;
+}
+
+#balon-der {
+	left: 90%;
+	top: 60%;
+}
+
+#circle {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    border: solid 5px white;
+    position: relative;
+    left: 520px;
+    top: 30%;
+}
+

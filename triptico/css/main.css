@@ -1,0 +1,45 @@
+body {
+
+}
+
+img {
+	height: auto;
+	width: 25em;
+}
+
+#header, #footer {
+	background-color: #fa9d3a;
+	text-align: center;
+	margin: 0;
+	padding: 1em 0;
+	width: 99%;
+}
+
+#header p{
+	margin: 0;
+	font-size: 1.5em;
+}
+
+.part {
+	width: 33%;
+	height: 35em;
+	border: solid 0.05em #d9d8d8;
+	float: left;
+	padding: 2em;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+
+.part p{
+	text-align: justify;
+}
+
+.part h2, h3{
+	text-align: center;
+}
+
+
+
+#footer {
+	clear: both;
+}

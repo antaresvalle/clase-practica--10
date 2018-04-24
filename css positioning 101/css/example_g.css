@@ -1,0 +1,17 @@
+div#box_1 {
+	background-color: yellow;
+	position: absolute;
+	top: 1em;
+	right: 1em;
+	left: 1em;
+	bottom: 1em;
+}
+
+div#box_2 {
+	background-color: purple;
+	position: absolute;
+	top: 2em;
+	right: 2em;
+	left: 2em;
+	bottom: 2em;
+}

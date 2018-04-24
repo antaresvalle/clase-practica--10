@@ -1,0 +1,21 @@
+div#box_1 {
+	background-color: #ee3e64;
+	height: 10em;
+	width: 10em;
+	position: relative;
+}
+
+div#box_2 {
+	background-color: #43accf; 
+	height: 10em;
+	width: 10em;
+	position: relative;
+}
+
+
+div#box_3 {
+	background-color: #b8d94a; 
+	height: 10em;
+	width: 10em;
+	position: relative;
+}

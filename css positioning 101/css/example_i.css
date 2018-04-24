@@ -1,0 +1,22 @@
+body {
+	display: block;
+	margin: 0 5em;
+	font-size: 1.2em;
+	margin-top: 0;
+}
+
+#box_1 {
+	width: 90%;
+	margin: 0 auto;
+}
+
+#box_2 {
+	position: fixed;
+	background-color: salmon;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+#box_2 p{
+	padding: 0 8.9em;
+}

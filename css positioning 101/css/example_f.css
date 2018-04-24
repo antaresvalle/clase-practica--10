@@ -1,0 +1,44 @@
+div#box_1 {
+	background-color: yellow;
+	height: 10em;
+	width: 10em;
+	position: absolute; 
+	top: 0;
+	left: 0;
+}
+
+div#box_2 {
+	background-color: purple; 
+	height: 10em;
+	width: 10em; 
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+div div {
+	width: 2em;
+	height: 2em;
+	background-color: orange;
+	position: relative;
+	top: 4em;
+	left: 4em;
+}
+
+div#box_3 {
+	background-color: red; 
+	height: 10em;
+	width: 10em; 
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+div#box_4 {
+	background-color: green; 
+	height: 10em;
+	width: 10em; 
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
